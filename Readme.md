@@ -15,3 +15,11 @@ dotnet ef migrations add InitialCreate
 
 To create the database:
 dotnet ef database update
+
+## Angular (Front-end)
+
+Install Angular:
+npm install -g @angular/cli
+
+Create Angular project:
+ng new nameOfTheProject
